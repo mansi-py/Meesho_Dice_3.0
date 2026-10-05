@@ -2,6 +2,8 @@
 
 ### [LIVE PROTOTYPE ↗](https://meesho-men.netlify.app/) · [PRESENTATION ↗](https://canva.link/yfjqut3h195by7w)
 
+Problem Statement- Winning Male Users on Meesho
+## Our Solution
 **Meesho Men** is a mobile-first shopping prototype that brings affordable complete looks, occasion-based setups, and interest-led discovery into one experience. Built for Meesho DICE 3.0, it explores how the platform can become more relevant to men's everyday needs.
 
 ## The idea
