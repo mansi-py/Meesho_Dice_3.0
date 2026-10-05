@@ -1,0 +1,38 @@
+COINS & REFERRAL ECONOMICS ? REVISED TO USER MODEL
+4 October 2026
+
+CONVERSION
+1 coin = Rs.1 discount/cashback value on the next eligible order.
+Referrer: 30 coins = Rs.30.
+Friend: 20 coins = Rs.20.
+Total per successful referral: 50 coins = Rs.50.
+Prototype shows use of up to Rs.50 in coins on orders Rs.299+, without stacking another promotional discount. Redemption is displayed policy; checkout application is not connected.
+
+SLIDE-READY REFERRAL MODEL
+- Referrer earns 30 coins once the friend's first eligible order is delivered and the return window closes with no return.
+- The friend earns 20 coins on that same successful first order.
+- Cap rewards at five successful referrals per referrer per month to limit abuse.
+- Gradually reduce reward levels as trust and awareness grow, subject to measured conversion/retention results.
+- At five referrals, referrer earnings total Rs.150; combined referrer/friend reward exposure totals Rs.250.
+
+FINANCIAL RATIONALE ? USER-SUPPLIED ASSUMPTIONS
+Assumed contribution LTV: Rs.178 per acquired user.
+Assumed annual contribution: Rs.59 per acquired user.
+Rs.50 / Rs.178 = 28.1% of contribution LTV, below 30%.
+Simple payback: Rs.50 / Rs.59 * 12 = 10.2 months, below one year.
+These conclusions depend on contribution-based LTV, not revenue LTV; exclude additional acquisition, fraud, moderation, technology costs and uneven contribution timing. They are not verified Meesho male-cohort economics.
+
+OTHER REWARDS AT THE REVISED CONVERSION
+Review: 10 coins = Rs.10 per eligible photo/video review.
+Quiz: 3 coins per correct answer, up to 9 coins = Rs.9 for the first completed occasional quiz.
+Changing from 10 coins = Rs.1 to 1 coin = Rs.1 increases those reward costs tenfold. One review plus a perfect quiz now creates Rs.19 nominal value. Stacking that with referral issuance creates Rs.69 nominal exposure per participating referral pair/user scenario; attribution and eligibility need separate analysis.
+Do not use the referral-only 28.1% / 10.2-month figures to justify all stacked program rewards.
+
+PUBLIC CONTEXT
+Meesho Q4 FY26 reported marketplace contribution margin 4.0% of NMV and adjusted marketplace EBITDA -1.7% of NMV.
+Source: https://nsearchives.nseindia.com/corporate/MEESHO_06052026171858_MLPress_Release.pdf
+These aggregate figures do not prove program affordability. Validate retained incremental orders and contribution after all rewards in a capped pilot.
+
+PROTOTYPE LIMITS
+Referral payout eligibility and the five-referral cap are displayed terms; there is no referral settlement backend. Review/quiz points update locally. Next-order redemption is not applied by checkout yet.
+Do not assert a higher return rate among male users without a source; delivery/return eligibility is a proposed guardrail.
