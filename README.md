@@ -1,4 +1,4 @@
-# Meesho DICE 3.0 · Team hpgirls · IIT Guwahati
+# Meesho DICE 3.0 | Team hpgirls | IIT Guwahati
 
 ### [LIVE PROTOTYPE ↗](https://meesho-men.netlify.app/) · [PRESENTATION ↗](https://canva.link/yfjqut3h195by7w) · [DEMO VIDEO ↗](https://www.youtube.com/shorts/5ikRYYUXJGo)
 
